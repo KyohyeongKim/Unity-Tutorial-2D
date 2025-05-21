@@ -9,10 +9,4 @@ public class StudyLog : MonoBehaviour
         Debug.LogWarning("Start 함수 실행");
         Debug.LogError("Start 함수 실행");
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        // Debug.Log("Update 함수 실행");
-    }
 }
