@@ -22,9 +22,4 @@ public class StudyUnityEvent : MonoBehaviour
     {
         Debug.Log("OnDisable");
     }
-
-    void Update()
-    {
-        // Debug.Log("Update");
-    }
 }
